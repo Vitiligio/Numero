@@ -5,9 +5,13 @@ Números
 Codifique una clase abstracta "Numero" con los siguientes métodos: 
 
   • sumar(Numero n): suma a éste número el número "n" 
+  
   • restar(Numero n): resta a éste número el número "n" 
+  
   • multiplicarPor(Numero n): multiplica a éste número por el número "n" 
+  
   • dividirPor(Numero n): divide a éste número por el número "n" 
+  
   • toString(): (redefinición del método definido en "Object") devuelve un String que representa al número
 
 Más Números 
